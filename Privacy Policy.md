@@ -20,10 +20,10 @@ The app does use third-party services that may collect information used to ident
 We do not collect personal info of users. uses your email address only to respond to your communications on the official website or in form in mobile application but we can't identifie user with e-mail that was sent to our contact address.
 
 ## Summary Statstics
-* **[We do not know which user was connected to the app  and any data of connection]
-* **[We do not know user IP]
-* **[We do not keep users data]
-* **[We do not save users data]
+* We do not know which user was connected to the app  and any data of connection
+* We do not know user IP
+* We do not keep users data
+* We do not save users data
 
 It is important to note that does not collect browsing history, traffic data, or DNS queries that could be used to identify any specific user.
 
