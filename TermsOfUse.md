@@ -1,7 +1,6 @@
+# OwlBlocker
 
-
-
-# Terms & Conditions OwlBlocker
+# Terms & Conditions 
 
 Last updated: December 2022
 
