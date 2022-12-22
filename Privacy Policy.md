@@ -48,4 +48,4 @@ This policy is effective as of 2022-12-8
 ## Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **velijaninoao@gmail.com**\
-}
+
