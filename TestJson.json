@@ -1,5 +1,7 @@
 {
    "screens":{
+       }
+   }
       "item0":{
          "title":"We can make your\nconnection safe",
          "subtitle":"Try to use VPN connection",
@@ -60,5 +62,5 @@
    "key":"ll_gascucidhhqwej215i;acnbuwpFLa0i05y6e32440",
    "subid":"",
    "postback":"",
-   "subscribeID":"com.pigeon.week"
+   "subscribeID":""
 }
