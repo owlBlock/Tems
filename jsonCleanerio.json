@@ -2,10 +2,8 @@
    "screens":{
       "item0":{
          "title":"We can make your\nconnection safe",
-         "subtitle":"Try to use VPN connection",
+         "subtitle":"Try to use  Cleanerio",
          "img":"https://cdn-icons-png.flaticon.com/512/1723/1723658.png",
-         "bgColor":"#25354C",
-         "buttonColor":"#65983B",
          "buttonTitle":"CHECK CONNECTION"
       },
       
